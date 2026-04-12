@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:00d2ff&height=250&section=header&text=Ujjwal%20Sharma&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Backend%20%7C%20AI%20Systems%20%7C%20Cybersecurity&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 </p>
-
+<!-- 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Backend+Architect+%E2%9A%99%EF%B8%8F;AI+%26+Distributed+Systems+%F0%9F%A7%A0;Cybersecurity+Co-Lead+%F0%9F%9B%A1%EF%B8%8F;Building+the+Future%2C+Bit+by+Bit+%E2%9C%A8" alt="Typing SVG" />
 </h1>
-
+-->
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" /> **The Mission**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" /> **About**
 
 > *Second-year AI & Data Science student who likes building things and breaking them to see how they work*
 
