@@ -1,6 +1,6 @@
 <!-- 🎯 Animated Cyberpunk Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:00d2ff&height=250&section=header&text=Ujjwal%20Sharma&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Backend%20Architect%20%7C%20AI%20Systems%20%7C%20Cybersecurity&descAlignY=55&descSize=18&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:00d2ff&height=250&section=header&text=Ujjwal%20Sharma&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Backend%20%7C%20AI%20Systems%20%7C%20Cybersecurity&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 </p>
 
 <h1 align="center">
@@ -118,19 +118,19 @@
   <table>
     <tr>
       <td><b>🛡️ Cyber Coordinator @ GDG USAR</b></td>
-      <td>Orchestrating CTFs & security workshops for 500+ developers.</td>
+      <td>Organised and Participated in many CTFs and Hands on sessions.</td>
     </tr>
     <tr>
       <td><b>⚡ Contributer @ HacktoberFest 2025</b></td>
-      <td>Fueling innovation by building hackathons.</td>
+      <td>Did Open Source Contributions.</td>
     </tr>
     <tr>
       <td><b>🤖 AI Volunteer @ Amazon Sambhav 2025</b></td>
-      <td>Mentoring on the next frontier of Generative AI.</td>
+      <td>Explaining AI concepts to business stakeholders</td>
     </tr>
     <tr>
       <td><b>⚡ Organizer @ BTH LLM Hackathon</b></td>
-      <td>Fueling innovation by building one of USAR's largest hackathons.</td>
+      <td>Organized USAR's LLM Hackathon, recognized by a Professor at NYU.</td>
     </tr>
   </table>
 </div>
