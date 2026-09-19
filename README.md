@@ -11,7 +11,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" /> **About**
 
-> *Second-year AI & Data Science student who likes building things and breaking them to see how they work*
+> *Third-year AI & Data Science student who likes building things and breaking them to see how they work*
 
 <br>
 
